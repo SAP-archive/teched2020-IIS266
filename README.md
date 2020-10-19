@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# IIS266 - Implement Intelligent Enterprise Scenarios with SAP Cloud ALM
 
 ## Description
 
