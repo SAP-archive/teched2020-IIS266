@@ -15,7 +15,7 @@ Now you can get started. We hope you enjoy the session.
 **Your SAP Cloud ALM team**
 
 ## Important information
-In the exercises please ensure you use the Group number A or B and the user number ( between 1 and 40) that will be provided to you whenever you create entities such as Project
+In the exercises please ensure you use the Group number A or B and the user number ( between 1 and 40) that will be provided to you whenever you create entities such as Project. At the start of the exercise the instructors will advise you on your tenant details and logon details.
 
 
 ## Requirements
