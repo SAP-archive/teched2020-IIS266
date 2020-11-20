@@ -4,7 +4,7 @@ In this Chapter we will explore how SAP Cloud ALM supports multiple parallel pro
 
 
 
-### Step 1: Home - Google Chrome
+### Step 1: Overview
 
 
 
@@ -14,7 +14,7 @@ In this Chapter we will explore how SAP Cloud ALM supports multiple parallel pro
 
 
 
-### Step 2: Overview - Google Chrome
+### Step 2: Create Project
 
 
 
@@ -26,7 +26,7 @@ In this Chapter we will explore how SAP Cloud ALM supports multiple parallel pro
 
 
 
-### Step 3: Project - Google Chrome
+### Step 3: Project details
 
 
 
@@ -36,7 +36,7 @@ In this Chapter we will explore how SAP Cloud ALM supports multiple parallel pro
 
 
 
-### Step 4: Project - Google Chrome
+### Step 4: Project details
 
 
 
@@ -46,7 +46,7 @@ In this Chapter we will explore how SAP Cloud ALM supports multiple parallel pro
 
 
 
-### Step 5: Project - Google Chrome
+### Step 5: Project details
 
 
 
@@ -56,7 +56,7 @@ In this Chapter we will explore how SAP Cloud ALM supports multiple parallel pro
 
 
 
-### Step 6: Project - Google Chrome
+### Step 6: Project details
 
 
 
@@ -66,7 +66,7 @@ In this Chapter we will explore how SAP Cloud ALM supports multiple parallel pro
 
 
 
-### Step 7: Project - Google Chrome
+### Step 7: Project details
 
 
 
@@ -76,7 +76,7 @@ In this Chapter we will explore how SAP Cloud ALM supports multiple parallel pro
 
 
 
-### Step 8: Overview - Google Chrome
+### Step 8: Overview
 
 
 
@@ -88,7 +88,7 @@ Click  ![](Markdown_files/fieldicon00.png)  to see list of available Projects in
 
 
 
-### Step 9: Overview - Google Chrome
+### Step 9: Switch Projects
 
 
 
@@ -98,7 +98,7 @@ Click  ![](Markdown_files/fieldicon00.png)  to see list of available Projects in
 
 
 
-### Step 10: Overview - Google Chrome
+### Step 10: Switch Projects
 
 
 
@@ -108,7 +108,7 @@ Click  ![](Markdown_files/fieldicon00.png)  to see list of available Projects in
 
  
 
-You have successfully finished the exercise
+You have successfully completed the exercise
 
  
 
