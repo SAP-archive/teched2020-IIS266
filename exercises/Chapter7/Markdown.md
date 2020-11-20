@@ -272,7 +272,7 @@
 
 
 
-### Step 28: Tasks 
+### Step 28: Select a date
 
 
 
@@ -282,7 +282,7 @@
 
 
 
-### Step 29: Tasks 
+### Step 29: Select a date
 
 
 
@@ -292,7 +292,7 @@
 
 
 
-### Step 30: Date
+### Step 30: Select a date
 
 
 
