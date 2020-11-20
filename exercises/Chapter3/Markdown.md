@@ -2,7 +2,7 @@
 
 ## Chapter 3 \- Create Requirement
 
-### Step 1: Processes - Google Chrome
+### Step 1: Select a Process
 
 
 
@@ -12,7 +12,7 @@
 
 
 
-### Step 2: Processes - Google Chrome
+### Step 2: Navigate to see details
 
 
 
@@ -22,7 +22,7 @@
 
 
 
-### Step 3: Processes - Google Chrome
+### Step 3: Select a Process Step
 
 
 
@@ -32,7 +32,7 @@
 
 
 
-### Step 4: Processes - Google Chrome
+### Step 4: Zoom 
 
 
 
@@ -42,7 +42,7 @@
 
 
 
-### Step 5: Processes - Google Chrome
+### Step 5: Select a process step
 
 
 
@@ -52,7 +52,7 @@
 
 
 
-### Step 6: Processes - Google Chrome
+### Step 6: Create Requirement
 
 
 
@@ -62,7 +62,7 @@
 
 
 
-### Step 7: Processes - Google Chrome
+### Step 7: Create Requirement
 
 
 
@@ -72,7 +72,7 @@
 
 
 
-### Step 8: Processes - Google Chrome
+### Step 8: Create Requirement
 
 
 
@@ -82,7 +82,7 @@
 
 
 
-### Step 9: Processes - Google Chrome
+### Step 9: Create Requirement
 
 
 
@@ -92,7 +92,7 @@
 
 
 
-### Step 10: Processes - Google Chrome
+### Step 10: Create Requirement
 
 
 
@@ -102,7 +102,7 @@
 
 
 
-### Step 11: Processes - Google Chrome
+### Step 11: Create Requirement
 
 
 
@@ -112,7 +112,7 @@
 
 
 
-### Step 12: Processes - Google Chrome
+### Step 12: Create Requirement
 
 
 
@@ -122,7 +122,7 @@
 
 
 
-### Step 13: Processes - Google Chrome
+### Step 13: Create Requirement
 
 
 
@@ -132,7 +132,7 @@
 
 
 
-### Step 14: Processes - Google Chrome
+### Step 14: Navigate back
 
 
 
@@ -142,7 +142,7 @@
 
 
 
-### Step 15: Home - Google Chrome
+### Step 15: Navigate to Requirement list
 
 
 
@@ -152,7 +152,7 @@
 
 
 
-### Step 16: Requirements and Notes - Google Chrome
+### Step 16: Requirement details
 
 
 
@@ -162,7 +162,7 @@
 
 
 
-### Step 17: Requirements and Notes - Google Chrome
+### Step 17: Generate task
 
 
 
@@ -172,7 +172,7 @@
 
 
 
-### Step 18: Requirements and Notes - Google Chrome
+### Step 18: Generate task
 
 
 
@@ -182,7 +182,7 @@
 
 
 
-### Step 19: Requirements and Notes - Google Chrome
+### Step 19: Generate task
 
 
 
@@ -192,7 +192,7 @@
 
 
 
-### Step 20: Requirements and Notes - Google Chrome
+### Step 20: Navigate ahead
 
 
 
