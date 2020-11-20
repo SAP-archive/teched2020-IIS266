@@ -21,14 +21,14 @@ The one and only thing you need is a modern browser.
 
 The workshop is structured into eight chapters and we recommend finish with one chapter before moving on to the next. The chapters build on each other.
 
-- [Chapter 1: Onboarding](exercises/Chapter1/Markdown.md)
-- [Chapter 2: Project Setup](exercises/Chapter2/Markdown.md)
-- [Chapter 3: Define Process Scope](exercises/Chapter3/Markdown.md)
-- [Chapter 4: Review and Adjust Implementation Roadmap](exercises/Chapter4/Markdown.md)
-- [Chapter 5: Conduct Fit-to-Standard Workshop](exercises/Chapter5/Markdown.md)
-- [Chapter 6: Finalize and Approve Requirements](exercises/Chapter6/Markdown.md)
-- [Chapter 7: Prepare Test](exercises/Chapter7/Markdown.md)
-- [Chapter 8: Execute Test](exercises/Chapter8/Markdown.md)
+- [Chapter 1: Create Project](exercises/Chapter1/Markdown.md)
+- [Chapter 2: Create Scope](exercises/Chapter2/Markdown.md)
+- [Chapter 3: Create Requirement](exercises/Chapter3/Markdown.md)
+- [Chapter 4: Create Manual Task](exercises/Chapter4/Markdown.md)
+- [Chapter 5: Mass Upload and Download](exercises/Chapter5/Markdown.md)
+- [Chapter 6: Task Assignment](exercises/Chapter6/Markdown.md)
+- [Chapter 7: Mass Edit](exercises/Chapter7/Markdown.md)
+- [Chapter 8: Parallel Project](exercises/Chapter8/Markdown.md)
  
 
 ## How to obtain support
