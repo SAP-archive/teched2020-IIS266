@@ -1,4 +1,6 @@
-﻿## Chapter 2 \- Create Scope
+[Back](/README.md)
+
+## Chapter 2 \- Create Scope
 
 ### Step 1: Home - Google Chrome
 
