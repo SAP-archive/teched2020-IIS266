@@ -1,8 +1,9 @@
 [Back](/README.md)
 
 ## Chapter 2 \- Create Scope
+In this Chapter zou will create a Scope. Scope is a collection of processes that you want to manage together
 
-### Step 1: Home - Google Chrome
+### Step 1: Overview
 
 
 
@@ -12,7 +13,7 @@
 
 
 
-### Step 2: Overview - Google Chrome
+### Step 2: Look at Upcoming tasks
 
 
 
@@ -22,7 +23,7 @@
 
 
 
-### Step 3: Tasks - Google Chrome
+### Step 3: Read the task details , navigate forward
 
 
 
@@ -32,7 +33,7 @@
 
 
 
-### Step 4: Processes - Google Chrome
+### Step 4: Create Scope
 
 
 
@@ -42,7 +43,7 @@
 
 
 
-### Step 5: Processes - Google Chrome
+### Step 5: Create Scope
 
 
 
@@ -52,7 +53,7 @@
 
 
 
-### Step 6: Processes - Google Chrome
+### Step 6: Create Scope
 
 
 
@@ -62,7 +63,7 @@
 
 
 
-### Step 7: Processes - Google Chrome
+### Step 7: Create Scope
 
 
 
@@ -72,7 +73,7 @@
 
 
 
-### Step 8: Processes - Google Chrome
+### Step 8: Create Scope
 
 
 
@@ -82,7 +83,7 @@
 
 
 
-### Step 9: Processes - Google Chrome
+### Step 9: Select Processes
 
 
 
@@ -92,7 +93,7 @@
 
 
 
-### Step 10: Processes - Google Chrome
+### Step 10: Select Processes
 
 
 
@@ -102,7 +103,7 @@
 
 
 
-### Step 11: Processes - Google Chrome
+### Step 11: Select Processes
 
 
 
@@ -112,7 +113,7 @@
 
 
 
-### Step 12: Processes - Google Chrome
+### Step 12: Select Processes
 
 
 
@@ -122,7 +123,7 @@
 
 
 
-### Step 13: Processes - Google Chrome
+### Step 13: Select Processes
 
 
 
@@ -132,7 +133,7 @@
 
 
 
-### Step 14: Processes - Google Chrome
+### Step 14: Select Processes
 
 
 
@@ -142,11 +143,11 @@
 
 
 
-### Step 15: Processes - Google Chrome
+### Step 15: Select Processes
 
 
 
-\(1\) Click  **Done to**  save the scope. You have completed the Chapter.
+\(1\) Click  **Done** to save the scope. You have completed the Chapter.
 
 ![](Markdown_files/img_013.png)
 
