@@ -2,7 +2,7 @@
 
 ## Chapter 1 \- Create Project
 
-### Step 1: SAP Cloud ALM - Google Chrome
+### Step 1: Launch SAP Cloud ALM
 
 
 
@@ -12,7 +12,7 @@
 
 
 
-### Step 2: SAP Cloud ALM - Google Chrome
+### Step 2: Logon
 
 
 
@@ -22,7 +22,7 @@
 
 
 
-### Step 3: SAP Cloud ALM Teched-40: Log On - Google Chrome
+### Step 3: Logon
 
 
 
@@ -32,7 +32,7 @@
 
 
 
-### Step 4: SAP Cloud ALM Teched-40: Log On - Google Chrome
+### Step 4: Logon
 
 
 
@@ -42,7 +42,7 @@
 
 
 
-### Step 5: SAP Cloud ALM Teched-40: Log On - Google Chrome
+### Step 5: Logon
 
 
 
@@ -52,7 +52,7 @@
 
 
 
-### Step 6: Home - Google Chrome
+### Step 6: Overview
 
 
 
@@ -62,7 +62,7 @@
 
 
 
-### Step 7: Overview - Google Chrome
+### Step 7: Access Help Documentation
 
 
 
@@ -74,7 +74,7 @@
 
 
 
-### Step 8: Overview - Google Chrome
+### Step 8: Close Help Documentation
 
 
 
@@ -84,7 +84,7 @@
 
 
 
-### Step 9: Overview - Google Chrome
+### Step 9: Proceed to Setup
 
 
 
@@ -94,7 +94,7 @@
 
 
 
-### Step 10: Project - Google Chrome
+### Step 10: Edit Project
 
 
 
@@ -104,7 +104,7 @@
 
 
 
-### Step 11: Project - Google Chrome
+### Step 11: Enter Project details
 
 
 
@@ -114,7 +114,7 @@
 
 
 
-### Step 12: Project - Google Chrome
+### Step 12: Enter Project details
 
 
 
@@ -124,7 +124,7 @@
 
 
 
-### Step 13: Project - Google Chrome
+### Step 13: Enter Project details
 
 
 
@@ -134,7 +134,7 @@
 
 
 
-### Step 14: Project - Google Chrome
+### Step 14: Enter Project details
 
 
 
@@ -144,7 +144,7 @@
 
 
 
-### Step 15: Project - Google Chrome
+### Step 15: Select dates
 
 
 
@@ -154,7 +154,7 @@
 
 
 
-### Step 16: Project - Google Chrome
+### Step 16: Select dates
 
 
 
@@ -164,7 +164,7 @@
 
 
 
-### Step 17: Project - Google Chrome
+### Step 17: Select dates
 
 
 
@@ -174,7 +174,7 @@
 
 
 
-### Step 18: Project - Google Chrome
+### Step 18: Save the Project
 
 
 
@@ -184,7 +184,7 @@
 
 
 
-### Step 19: Project - Google Chrome
+### Step 19: Navigate to Teams Tab
 
 
 
@@ -194,7 +194,7 @@
 
 
 
-### Step 20: Project - Google Chrome
+### Step 20: Edit team details
 
 
 
@@ -204,7 +204,7 @@
 
 
 
-### Step 21: Project - Google Chrome
+### Step 21: Edit team details
 
 
 
@@ -214,7 +214,7 @@
 
 
 
-### Step 22: Project - Google Chrome
+### Step 22: Edit team details
 
 
 
@@ -224,7 +224,7 @@
 
 
 
-### Step 23: Project - Google Chrome
+### Step 23: Edit team details
 
 
 
@@ -236,7 +236,7 @@
 
 
 
-### Step 24: Project - Google Chrome
+### Step 24: Edit team details
 
 
 
@@ -246,7 +246,7 @@
 
 
 
-### Step 25: Project - Google Chrome
+### Step 25: Navigate back
 
 
 
