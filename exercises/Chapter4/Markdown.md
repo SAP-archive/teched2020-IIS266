@@ -2,7 +2,7 @@
 
 ## Chapter 4 \- Create Manual Task
 
-### Step 1: Home - Google Chrome
+### Step 1: Navigate to Task list
 
 
 
@@ -12,7 +12,7 @@
 
 
 
-### Step 2: Tasks - Google Chrome
+### Step 2: Task sources
 
 
 
@@ -22,7 +22,7 @@
 
 
 
-### Step 3: Tasks - Google Chrome
+### Step 3: Task sources
 
 
 
@@ -32,7 +32,7 @@
 
 
 
-### Step 4: Tasks - Google Chrome
+### Step 4: Task sources
 
 
 
@@ -42,17 +42,17 @@
 
 
 
-### Step 5: Tasks - Google Chrome
+### Step 5: Manual Task
 
 
 
-\(1\) Click  **Create**  to create a manual Task.
+\(1\) Click  **Create**  to create a Task manually.
 
 ![](Markdown_files/img_003.png)
 
 
 
-### Step 6: Tasks - Google Chrome
+### Step 6: Enter task details
 
 
 
@@ -62,7 +62,7 @@
 
 
 
-### Step 7: Tasks - Google Chrome
+### Step 7: Enter task details
 
 
 
@@ -72,7 +72,7 @@
 
 
 
-### Step 8: Tasks - Google Chrome
+### Step 8: Enter task details
 
 
 
@@ -82,7 +82,7 @@
 
 
 
-### Step 9: Tasks - Google Chrome
+### Step 9: Save
 
 
 
@@ -92,7 +92,7 @@
 
 
 
-### Step 10: Tasks - Google Chrome
+### Step 10: Close
 
 
 
