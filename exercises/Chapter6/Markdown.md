@@ -6,7 +6,7 @@ In this Chapter you know how can you assign tasks to yourself
 
 
 
-### Step 1: Home - Google Chrome
+### Step 1: Make sure you are in Overview Page
 
 
 
@@ -16,7 +16,7 @@ In this Chapter you know how can you assign tasks to yourself
 
 
 
-### Step 2: Overview - Google Chrome
+### Step 2: Look at the task counts in Upcoming Tasks tile
 
 
 
@@ -26,7 +26,7 @@ In this Chapter you know how can you assign tasks to yourself
 
 
 
-### Step 3: Tasks - Google Chrome
+### Step 3: Remove the active filters
 
 
 
@@ -36,7 +36,7 @@ In this Chapter you know how can you assign tasks to yourself
 
 
 
-### Step 4: Tasks - Google Chrome
+### Step 4: Open the dropdown for Assigned Roles
 
 
 
@@ -46,7 +46,7 @@ In this Chapter you know how can you assign tasks to yourself
 
 
 
-### Step 5: Tasks - Google Chrome
+### Step 5: Select Project Lead
 
 
 
@@ -56,7 +56,7 @@ In this Chapter you know how can you assign tasks to yourself
 
 
 
-### Step 6: Tasks - Google Chrome
+### Step 6: Select all tasks assigned to Role Project Lead
 
 
 
@@ -66,7 +66,7 @@ In this Chapter you know how can you assign tasks to yourself
 
 
 
-### Step 7: Tasks - Google Chrome
+### Step 7: Mass Edit
 
 
 
@@ -76,7 +76,7 @@ In this Chapter you know how can you assign tasks to yourself
 
 
 
-### Step 8: Tasks - Google Chrome
+### Step 8: Select assignee
 
 
 
@@ -86,7 +86,7 @@ In this Chapter you know how can you assign tasks to yourself
 
 
 
-### Step 9: Tasks - Google Chrome
+### Step 9: Select assignee
 
 
 
@@ -96,7 +96,7 @@ In this Chapter you know how can you assign tasks to yourself
 
 
 
-### Step 10: Tasks - Google Chrome
+### Step 10: Search for your user name
 
 
 
@@ -106,7 +106,7 @@ In this Chapter you know how can you assign tasks to yourself
 
 
 
-### Step 11: Tasks - Google Chrome
+### Step 11: Find your user 
 
 
 
@@ -116,7 +116,7 @@ In this Chapter you know how can you assign tasks to yourself
 
 
 
-### Step 12: Tasks - Google Chrome
+### Step 12: Save assignments
 
 
 
@@ -126,7 +126,7 @@ In this Chapter you know how can you assign tasks to yourself
 
 
 
-### Step 13: Tasks - Google Chrome
+### Step 13: Validate changes
 
 
 
@@ -136,7 +136,7 @@ In this Chapter you know how can you assign tasks to yourself
 
 
 
-### Step 14: Overview - Google Chrome
+### Step 14: Notice counts for upcoming tasks
 
 
 
