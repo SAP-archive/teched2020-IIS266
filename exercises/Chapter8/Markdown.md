@@ -1,4 +1,6 @@
-﻿## Chapter 8 \- Parallel Projects 
+[Back](/README.md)
+
+## Chapter 8 \- Parallel Projects 
 
 In this Chapter we will explore how SAP Cloud ALM supports multiple parallel projects. You will create a new Project and also switch between Projects
 
