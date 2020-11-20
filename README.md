@@ -3,15 +3,20 @@
 ## Overview
 
 **Good day!**
-In this session you experience how SAP Cloud ALM can help you in adoption of Intelligent Enterprise. You will see how you the tool comes loaded with content from Activate methodology and Process content to give you a jumpstart. You will also notice that now you can execute multiple projects in parallel and perform mass uploads and downloads
-You will see that how a guided approach always helps you understand what to do next.
-For this session you have the dual role of a Project lead and a Business Process Expert
+In this session you experience how SAP Cloud ALM can help you in adoption of Intelligent Enterprise. You will see how you the tool comes loaded with content from Activate methodology in the form of tasks and Process content in the form of BPMN diagrams to give you a jumpstart. 
+You will also notice that now you can execute multiple projects in parallel and perform mass uploads and downloads
+You will experience that how a guided approach always helps you understand what to do next.
+For this session you will have the dual role of a Project lead and a Business Process Expert
 
 Now you can get started. We hope you enjoy the session.
 
 ​Cheers, 
 
 **Your SAP Cloud ALM team**
+
+## Important information
+In the exercises please ensure you use the Group number A or B and the user number ( between 1 and 40) that will be provided to you whenever you create entities such as Project
+
 
 ## Requirements
 
