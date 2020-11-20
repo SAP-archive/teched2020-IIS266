@@ -1,6 +1,8 @@
-﻿## Chapter 7 \- Mass Edit
+[Back](/README.md)
+ 
+ ## Chapter 7 \- Mass Edit
 
-### Step 1: Home - Google Chrome
+### Step 1: Make sure you are in Overview Page
 
 
 
@@ -10,7 +12,7 @@
 
 
 
-### Step 2: Overview - Google Chrome
+### Step 2:Navigate to Task list from Overview Page
 
 
 
@@ -20,7 +22,7 @@
 
 
 
-### Step 3: Tasks - Google Chrome
+### Step 3: Adapt Filters
 
 
 
@@ -30,7 +32,7 @@
 
 
 
-### Step 4: Tasks - Google Chrome
+### Step 4: Add Workstream to the filter list
 
 
 
@@ -40,7 +42,7 @@
 
 
 
-### Step 5: Tasks - Google Chrome
+### Step 5: Navigate back
 
 
 
@@ -50,7 +52,7 @@
 
 
 
-### Step 6: Tasks - Google Chrome
+### Step 6: Open Task List results column settings 
 
 
 
@@ -60,7 +62,7 @@
 
 
 
-### Step 7: Tasks - Google Chrome
+### Step 7: Ensure Workstream is visible in result list
 
 
 
@@ -70,7 +72,7 @@
 
 
 
-### Step 8: Tasks - Google Chrome
+### Step 8: Click ok
 
 
 
@@ -80,7 +82,7 @@
 
 
 
-### Step 9: Tasks - Google Chrome
+### Step 9: Select a Workstream
 
 
 
@@ -90,7 +92,7 @@
 
 
 
-### Step 10: Tasks - Google Chrome
+### Step 10: Select Project Management
 
 
 
@@ -100,7 +102,7 @@
 
 
 
-### Step 11: Tasks - Google Chrome
+### Step 11: Select all tasks for the Workstream Project Management
 
 
 
@@ -110,7 +112,7 @@
 
 
 
-### Step 12: Tasks - Google Chrome
+### Step 12: Launch Mass Editing
 
 
 
@@ -120,7 +122,7 @@
 
 
 
-### Step 13: Tasks - Google Chrome
+### Step 13: Select a status
 
 
 
@@ -130,7 +132,7 @@
 
 
 
-### Step 14: Tasks - Google Chrome
+### Step 14: Select Done
 
 
 
@@ -140,7 +142,7 @@
 
 
 
-### Step 15: Tasks - Google Chrome
+### Step 15: Save
 
 
 
@@ -150,7 +152,7 @@
 
 
 
-### Step 16: Tasks - Google Chrome
+### Step 16: Navigate back to overview
 
 
 
@@ -160,7 +162,7 @@
 
 
 
-### Step 17: Overview - Google Chrome
+### Step 17: Notice updated Progress, navigate back to Task List
 
 
 
@@ -170,7 +172,7 @@
 
 
 
-### Step 18: Tasks - Google Chrome
+### Step 18: Adapt filters
 
 
 
@@ -180,7 +182,7 @@
 
 
 
-### Step 19: Tasks - Google Chrome
+### Step 19: Ensure Deliverable filter is visible
 
 
 
@@ -190,7 +192,7 @@
 
 
 
-### Step 20: Tasks - Google Chrome
+### Step 20: Go
 
 
 
@@ -200,7 +202,7 @@
 
 
 
-### Step 21: Tasks - Google Chrome
+### Step 21: Launch column settings again
 
 
 
@@ -210,7 +212,7 @@
 
 
 
-### Step 22: Tasks - Google Chrome
+### Step 22: Tasks
 
 
 
@@ -220,7 +222,7 @@
 
 
 
-### Step 23: Tasks - Google Chrome
+### Step 23: Select a Deliverable
 
 
 
@@ -230,7 +232,7 @@
 
 
 
-### Step 24: Tasks - Google Chrome
+### Select Customer Team Self-Enablement
 
 
 
@@ -240,7 +242,7 @@
 
 
 
-### Step 25: Tasks - Google Chrome
+### Step 25: Close the dropdown
 
 
 
