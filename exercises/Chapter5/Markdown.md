@@ -1,6 +1,8 @@
-﻿## Chapter 5 \- Mass Download and Upload 
+[Back](/README.md)
 
-### Step 1: Tasks - Google Chrome
+## Chapter 5 \- Mass Download and Upload 
+
+### Step 1: Download Task as Template
 
 
 
@@ -10,7 +12,7 @@
 
 
 
-### Step 2: Tasks - Google Chrome
+### Step 2: Download Task as Template
 
 
 
@@ -20,7 +22,7 @@
 
 
 
-### Step 3: Tasks - Google Chrome
+### Step 3: Open the downloaded file
 
 
 
@@ -30,7 +32,7 @@
 
 
 
-### Step 4: Manually_Created_Tasks (15).xlsx - Excel
+### Step 4: Update the downloaded file
 
 
 
@@ -40,7 +42,7 @@
 
 
 
-### Step 5: Manually_Created_Tasks (15).xlsx - Excel
+### Step 5: Update the downloaded file
 
 
 
@@ -50,7 +52,7 @@
 
 
 
-### Step 6: Manually_Created_Tasks (15).xlsx - Excel
+### Step 6: Delete the task that exists in system
 
 
 
@@ -60,7 +62,7 @@
 
 
 
-### Step 7: Manually_Created_Tasks (15).xlsx - Excel
+### Step 7: Save the file
 
 
 
@@ -70,7 +72,7 @@
 
 
 
-### Step 8: Manually_Created_Tasks (15).xlsx - Excel
+### Step 8: Save the file
 
 
 
@@ -80,7 +82,7 @@
 
 
 
-### Step 9: Manually_Created_Tasks (15).xlsx - Excel
+### Step 9: Save the file
 
 
 
@@ -90,7 +92,7 @@
 
 
 
-### Step 10: Manually_Created_Tasks_IIS266.xlsx - Saved
+### Step 10: Save the file
 
 
 
@@ -100,7 +102,7 @@
 
 
 
-### Step 11: Tasks - Google Chrome
+### Step 11: Upload Tasks
 
 
 
@@ -110,7 +112,7 @@
 
 
 
-### Step 12: Tasks - Google Chrome
+### Step 12: Locate the file
 
 
 
@@ -130,7 +132,7 @@
 
 
 
-### Step 14: Tasks - Google Chrome
+### Step 14: Upload the tasks
 
 
 
@@ -140,7 +142,7 @@
 
 
 
-### Step 15: Tasks - Google Chrome
+### Step 15: Tasks
 
 
 
@@ -150,7 +152,7 @@
 
 
 
-### Step 16: Tasks - Google Chrome
+### Step 16: Note the new Tasks uploaded
 
 
 
