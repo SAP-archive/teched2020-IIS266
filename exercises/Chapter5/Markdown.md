@@ -92,7 +92,7 @@
 
 
 
-### Step 10: Save the file
+### Step 10: Close the file
 
 
 
