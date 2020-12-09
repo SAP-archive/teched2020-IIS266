@@ -2,6 +2,8 @@
 
 ## Chapter 4 \- Create Manual Task
 
+There could be situations that the task provided by SAP is not sufficient and you want to capture specific things based on the current scenario. You can enrich the task list by adding your own content. In this Chapter you will only add a manual task but technically tool will allow you to create your own deliverables and your own tasks. 
+
 ### Step 1: Navigate to Task list
 
 
