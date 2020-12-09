@@ -2,6 +2,8 @@
 
 ## Chapter 1 \- Create Project
 
+In this Chapter you create a Project , assign dates for Phases and assign yourself as Project lead and Business process Expert. You can think of Project as a container that holds your Project scope, Requirements , Test cases etc.
+
 ### Step 1: Launch SAP Cloud ALM
 
 
