@@ -1,6 +1,7 @@
 [Back](/README.md)
 
 ## Chapter 5 \- Mass Download and Upload 
+The tool enables you to perform Mass Operations.
 
 ### Step 1: Download Task as Template
 
