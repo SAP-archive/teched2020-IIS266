@@ -2,7 +2,7 @@
 
 ## Chapter 6 \- Task Assignment 
 
-In this Chapter you know how can you assign tasks to yourself
+In this Chapter you know how can you assign tasks to yourself. In project situations you can use this capability to distribute tasks to team members.
 
 
 
