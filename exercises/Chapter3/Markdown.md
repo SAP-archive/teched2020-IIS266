@@ -1,6 +1,7 @@
 [Back](/README.md)
 
 ## Chapter 3 \- Create Requirement
+SAP Cloud ALM helps you manage your Fit to standard workshops. You can review the process content in these workshops and not down any gaps or Requirements in tool itself. This way you can centralize information and avoid offline Excel sheets.
 
 ### Step 1: Select a Process
 
