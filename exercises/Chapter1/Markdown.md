@@ -228,7 +228,7 @@
 
 
 
-\(1\) Enter teched\-build xx against  **Business Process Expert** where xx is your user name.
+\(1\) Enter teched\-build xx against  **Business Process Expert** where xx is your user name. Your upcoming tasks depend on your role assignment so make sure you perform this step.
 
  
 
