@@ -228,7 +228,7 @@
 
 
 
-\(1\) Enter teched\-build xx against  **Business Process Expert** where xx is your user name. Your upcoming tasks depend on your role assignment so make sure you perform this step.
+\(1\) Enter teched\-build xx against  **Business Process Expert** where xx is your user name. Your upcoming tasks depend on your role assignment so make sure you perform this step. Before leaving the team screen make sure you assign yourself both as Project lead and Business Process Expert
 
  
 
