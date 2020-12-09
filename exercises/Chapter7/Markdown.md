@@ -1,6 +1,7 @@
 [Back](/README.md)
  
  ## Chapter 7 \- Mass Edit
+The tool enables you to update multiple attributes for multiple tasks in one operation.
 
 ### Step 1: Make sure you are in Overview Page
 
