@@ -1,7 +1,7 @@
 [Back](/README.md)
 
 ## Chapter 2 \- Create Scope
-In this Chapter zou will create a Scope. Scope is a collection of processes that you want to manage together
+In this Chapter you will create a Scope. Scope is a collection of processes that you want to manage together eg for an LOB , a region or a Product line
 
 ### Step 1: Overview
 
