@@ -1,5 +1,7 @@
 # IIS266 - Implement Intelligent Enterprise Scenarios with SAP Cloud ALM
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2020-IIS266)](https://api.reuse.software/info/github.com/SAP-samples/teched2020-IIS266)
+
 ## Overview
 
 **Good day!**
